@@ -1,0 +1,32 @@
+.body {
+    background-color: #087f8c;
+}
+.h1 {
+    text-align: center;
+}
+.h5 {
+   text-align: center;
+}
+
+#hr {
+    height: 5px;
+    background-color:black;
+}
+
+footer {
+    background-color: #0b2f34;;
+}
+
+#div1 {
+    padding-left: 30px;
+    color:beige;
+}
+
+#div2 {
+    padding-left: 30px;
+}
+
+#div3 {
+    padding-left: 30px;
+    color:beige;
+}

@@ -1,0 +1,17 @@
+.center {
+    margin: auto;
+    width: 65%;
+    padding: 10px;
+}
+
+.div1 {
+    padding: 30px;
+}
+
+.body {
+    background-image: linear-gradient(to right, #087f8c, #0fcbe0);
+}
+
+#div1 {
+    padding-left: 50px;
+}
